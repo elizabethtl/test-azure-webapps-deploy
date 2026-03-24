@@ -9,7 +9,7 @@ on:
       - '**.md'
   pull_request_target:
     branches:
-      - master
+      - main
       - 'releases/*'
 
 permissions:
